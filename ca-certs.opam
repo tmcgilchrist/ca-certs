@@ -19,7 +19,7 @@ depends: [
   "astring"
   "bos"
   "fpath"
-  "ptime"
+  "ptime" {< "0.9"}
   "logs"
   "mirage-crypto"
   "x509" {>= "0.13.0"}
